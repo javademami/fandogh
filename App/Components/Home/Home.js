@@ -7,7 +7,7 @@ import PlaceItem from './PlaceItem';
 import HorizontalCarousel from './HorizontalCarousel';
 import Colors from '../../Shared/Colors';
 
-const GOOGLE_PLACES_API_KEY = 'AIzaSyBS7eF0EwWB2PJVGSVm597hfmupug-2M2Q';
+const GOOGLE_PLACES_API_KEY = 'Your_API_Key';
 const BASE_URL = 'https://maps.googleapis.com/maps/api/place';
 
 const Home = ({ navigation }) => {
